@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mrkeww
-- I code very occasionally and self-host stuff. Also a good gamer and anime enjoyer.
+- I code very occasionally and self-host stuff. Also a good gamer.
 
 [![mrkeww's GitHub stats](https://github-readme-stats-ftpr.vercel.app/api?username=mrkeww&theme=midnight-purple&show_icons=true)](https://github.com/mrkeww/github-readme-stats)
 
